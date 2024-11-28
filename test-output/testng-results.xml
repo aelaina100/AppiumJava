@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T00:43:22 EST" name="Default suite" finished-at="2024-11-27T00:43:51 EST" duration-ms="28490">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T00:43:22 EST" name="Default test" finished-at="2024-11-27T00:43:51 EST" duration-ms="28490">
+      <class name="AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest">
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:22 EST" name="startAppiumServer" finished-at="2024-11-27T00:43:32 EST" duration-ms="9810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method signature="navigateToGraphicsButton()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:32 EST" name="navigateToGraphicsButton" finished-at="2024-11-27T00:43:41 EST" duration-ms="9532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToGraphicsButton -->
+        <test-method is-config="true" signature="quitApp()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:41 EST" name="quitApp" finished-at="2024-11-27T00:43:42 EST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:42 EST" name="startAppiumServer" finished-at="2024-11-27T00:43:42 EST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method signature="navigateToPreferenceButton()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:42 EST" name="navigateToPreferenceButton" finished-at="2024-11-27T00:43:50 EST" duration-ms="8342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToPreferenceButton -->
+        <test-method is-config="true" signature="quitApp()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:50 EST" name="quitApp" finished-at="2024-11-27T00:43:51 EST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest@3023df74]" started-at="2024-11-27T00:43:51 EST" name="stopAppiumServer" finished-at="2024-11-27T00:43:51 EST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- AppiumExamples.Appium_Hardcoded_Examples.D_navigationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
