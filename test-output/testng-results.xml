@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-01T01:33:29 EST" name="Default suite" finished-at="2024-12-01T01:33:46 EST" duration-ms="17859">
+    <groups>
+    </groups>
+    <test started-at="2024-12-01T01:33:29 EST" name="Default test" finished-at="2024-12-01T01:33:46 EST" duration-ms="17859">
+      <class name="AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest">
+        <test-method is-config="true" signature="startAppiumServer()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest@2d3379b4]" started-at="2024-12-01T01:33:29 EST" name="startAppiumServer" finished-at="2024-12-01T01:33:29 EST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startAppiumServer -->
+        <test-method signature="popUps()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest@2d3379b4]" started-at="2024-12-01T01:33:29 EST" name="popUps" finished-at="2024-12-01T01:33:46 EST" duration-ms="16743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popUps -->
+        <test-method is-config="true" signature="quitApp()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest@2d3379b4]" started-at="2024-12-01T01:33:46 EST" name="quitApp" finished-at="2024-12-01T01:33:46 EST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+        <test-method is-config="true" signature="stopAppiumServer()[pri:0, instance:AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest@2d3379b4]" started-at="2024-12-01T01:33:46 EST" name="stopAppiumServer" finished-at="2024-12-01T01:33:46 EST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopAppiumServer -->
+      </class> <!-- AppiumExamples.Appium_Hardcoded_Examples.F_popUpsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
