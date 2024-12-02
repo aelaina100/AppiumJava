@@ -1,0 +1,1 @@
+This is an ongoing project that I am building in my free time. The final version will be a viable real-time project that's integrated with a CI tool such as jenkins where Cucumber, Log4j, Test NG, Mavan, proper assertions, optimized code with Java Streams, listeners class & proper reporting will be used.
