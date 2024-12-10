@@ -1,0 +1,6 @@
+ Make the included pdf document (At the project level = where the pom.xml file is) readable.
+
+ In "G_longPress_javaScriptExecutorTest" provide an example for long pressing on the element using coordinates instead of a locator.
+ 
+ Adding the global implicit wait, in the base file, in the @BeforeClass method (That starts the Appium server programmatically) renders
+ this.driver error. Fix it !
